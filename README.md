@@ -6,3 +6,8 @@ A simple MVP api to test MongoDb implementation with Node.js
 dotenv: "^16.4.4",
 express: "^4.18.2",
 mongoose: "^8.1.2"
+
+## Setup
+Install dependencies `yarn install`
+
+start server `node .`
